@@ -3,68 +3,92 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=AraujoCC&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi 👋, I'm AraujoCC</h1>
-
-<h3 align="center">💻 Java Back-End Developer in Progress</h3>
+<h1 align="center">Java Back-End Developer</h1>
+<h3 align="center">Spring Boot | REST APIs | SQL | Automated Testing</h3>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-🔥 Young developer focused on constant evolution  
-🧠 Strong foundation in logic and Java  
-🚀 Building real-world backend systems  
-📚 Focused on clean code and solid fundamentals  
+💻 Java Back-End Developer focused on building real-world backend applications  
+🏗️ Experience developing SaaS systems using Spring Boot  
+🧪 Practical experience with automated testing  
+🗄️ Strong knowledge in relational databases and SQL  
 
-🎯 Goal: Become a highly skilled **Java Back-End Developer**
+🎯 Currently seeking a Junior Java Developer opportunity or Internship  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend
+### 🚀 Backend Development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge)
+
+### 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend Foundations
+### 🧪 Testing & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🤖 Automation & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📌 Highlighted Projects
 
-### 📚 Library Management System
-> Complete library system with GUI and database integration.
+### 💰 Financial Control SaaS (Spring Boot)
 
-- Java (OOP)
-- Swing (Desktop Interface)
-- MySQL
+Backend REST API for a financial management system.
+
+- Java + Spring Boot
+- RESTful API architecture
+- MySQL database integration
 - CRUD operations
-- User authentication
-- Structured project architecture
+- Authentication & authorization
+- Layered architecture (Controller, Service, Repository)
+- Automated testing
 
 ---
 
-### 🤖 Python Automation Bots
-> Scripts and bots focused on task automation.
+### 📚 Library Management System
 
-- Data processing
-- Automation scripts
-- Logic and workflow optimization
+Backend system for managing books, users, and loans.
+
+- Java + Spring Boot
+- Database integration
+- Business rules implementation
+- Structured project organization
+- Clean code principles
 
 ---
 
-## 🔥 Contribution Streak
+## 🏗️ Architecture Approach
+
+- Separation of concerns  
+- Clean code practices  
+- Layered architecture  
+- RESTful standards  
+- Database modeling fundamentals  
+
+---
+
+## 🎯 Current Focus
+
+- Improving REST API best practices  
+- Deepening Spring Boot knowledge  
+- Strengthening automated testing skills  
+- Learning Docker and deployment strategies  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AraujoCC&theme=tokyonight&hide_border=true" />
@@ -72,24 +96,14 @@
 
 ---
 
-## 🎯 Current Focus
+## 🤝 Let's Connect
 
-- 📌 Deepening Java and OOP concepts
-- 🗄️ Improving SQL and database modeling
-- 🏗️ Building scalable backend structures
-- 🌍 Moving toward fullstack development
-
----
-
-## 💭 Philosophy
-
-> "Consistency beats talent when talent doesn't work hard."
+📫 Open to Junior Java Developer positions and Internship opportunities  
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring a repository  
-🤝 Open to Junior Java opportunities and collaborations
+  ⭐ If you like my work, consider starring a repository  
 </p>
 
 <!-- FOOTER -->
