@@ -4,18 +4,18 @@
 </p>
 
 <h1 align="center">Java Back-End Developer</h1>
-<h3 align="center">Spring Boot | REST APIs | SQL | Automated Testing</h3>
+<h3 align="center">Spring Boot | REST APIs | SQL | Clean Architecture</h3>
 
 ---
 
 ## 🚀 About Me
 
-💻 Java Back-End Developer focused on building real-world backend applications  
-🏗️ Experience developing SaaS systems using Spring Boot  
-🧪 Practical experience with automated testing  
-🗄️ Strong knowledge in relational databases and SQL  
+💻 Java Back-End Developer passionate about building scalable and well-structured backend systems  
+🏗️ Experience developing RESTful APIs using Spring Boot  
+🧪 Strong focus on clean code, layered architecture, and automated testing  
+🗄️ Solid knowledge of relational databases and SQL  
 
-🎯 Currently seeking a Junior Java Developer opportunity or Internship  
+🎯 Actively seeking a Junior Java Developer position or Internship opportunity  
 
 ---
 
@@ -25,6 +25,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-003B57?style=for-the-badge)
 
@@ -36,55 +37,72 @@
 ### 🧪 Testing & Tools
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-5C2D91?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📌 Highlighted Projects
 
-### 💰 Financial Control SaaS (Spring Boot)
+### 💰 Financial Control SaaS API
 
-Backend REST API for a financial management system.
+Backend REST API for a financial management system simulating fintech architecture.
 
+**Tech Stack:**
 - Java + Spring Boot
-- RESTful API architecture
-- MySQL database integration
-- CRUD operations
-- Authentication & authorization
+- Spring Data JPA
+- MySQL
+- JWT Authentication
 - Layered architecture (Controller, Service, Repository)
-- Automated testing
+- Exception handling
+- Automated testing with JUnit & Mockito
+
+**Key Concepts Applied:**
+- Clean Architecture principles
+- RESTful best practices
+- Data validation
+- Secure authentication flow
+- Business rule separation
 
 ---
 
-### 📚 Library Management System
+### 📚 Library Management System API
 
-Backend system for managing books, users, and loans.
+Backend system for managing books, users, and loan operations.
 
+**Tech Stack:**
 - Java + Spring Boot
-- Database integration
+- Relational database integration
 - Business rules implementation
+- CRUD operations
+- Exception handling
+
+**Highlights:**
 - Structured project organization
-- Clean code principles
+- Clear separation of responsibilities
+- Domain-driven design concepts
 
 ---
 
-## 🏗️ Architecture Approach
+## 🏗️ Architecture & Principles
 
-- Separation of concerns  
-- Clean code practices  
-- Layered architecture  
-- RESTful standards  
-- Database modeling fundamentals  
+✔ Separation of concerns  
+✔ Clean code practices  
+✔ Layered architecture  
+✔ RESTful standards  
+✔ Database normalization fundamentals  
+✔ SOLID principles  
 
 ---
 
 ## 🎯 Current Focus
 
-- Improving REST API best practices  
-- Deepening Spring Boot knowledge  
-- Strengthening automated testing skills  
-- Learning Docker and deployment strategies  
+- Deepening Spring Security knowledge  
+- Improving automated testing coverage  
+- Learning Docker and containerization  
+- Studying microservices fundamentals  
 
 ---
 
@@ -98,7 +116,7 @@ Backend system for managing books, users, and loans.
 
 ## 🤝 Let's Connect
 
-📫 Open to Junior Java Developer positions and Internship opportunities  
+📫 Open to Junior Java Developer and Internship opportunities  
 
 ---
 
