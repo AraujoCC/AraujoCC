@@ -12,8 +12,10 @@
 🎯 Currently seeking a Junior Developer or Internship opportunity  
 
 ---
+## Skills
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,react,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,mongodb,mysql,postgres,docker,git,github,react,ts,tailwind" />
 </p>
 
 ---
