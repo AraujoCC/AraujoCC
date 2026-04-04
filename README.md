@@ -1,21 +1,17 @@
+Back-End Developer focused on building scalable and well-structured systems.
 
-💻 Back-End Developer focused on building scalable and well-structured systems  
+Experience with Java, Spring Boot and RESTful APIs, applying best practices such as layered architecture and clean code.
 
-🏗️ Experience with Java, Spring Boot and REST APIs  
+Currently exploring microservices, authentication and real-time communication, as well as integrating AI solutions into backend systems.
 
-⚛️ Building Full Stack applications using React, TypeScript and modern tools  
+Strong foundation in SQL and relational databases.
 
-🧪 Strong focus on clean code, layered architecture and testing  
-
-🗄️ Solid knowledge of SQL and relational databases  
-
-🎯 Currently seeking a Junior Developer or Internship opportunity  
+Currently seeking a Junior Backend Developer or Internship opportunity.
 
 ---
+
 ## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,kafka,mongodb,mysql,postgres,docker,git,github,react,ts,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,kafka,postgres,mysql,docker,git,github" />
 </p>
-
----
