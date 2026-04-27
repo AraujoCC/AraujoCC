@@ -5,7 +5,7 @@ Studying a Bachelor's Degree in Computer Science (3nd semester) at Universidade 
 Reach me at: pedroisaacofc@gmail.com
 
 ### Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,javascript,postgres,docker,kafka,git" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,spring,javascript,typescript,postgres,docker,kafka,git" /> </p>
 
 ### Languages
 ```🇧🇷 Portuguese — Native``` · ```🇺🇸 English — Intermediate```
